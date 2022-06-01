@@ -1,6 +1,6 @@
 ADNAN
 
-Adnan merupakan sebuah website yang berdasarkan kepada konsep religi berbasis teknologi. Kepraktisan menjadi salah satu alasan untuk menggunakan website ini kerena website tersebut berisi jadwal waktu shalat, Al Qur’an digital, lagu islami, dakwah islam, dan catatan hapalan surat Al Qur’an
+Adnan merupakan sebuah website yang berdasarkan kepada konsep religi berbasis teknologi. Kepraktisan menjadi salah satu alasan untuk menggunakan website ini kerena website tersebut berisi jadwal waktu shalat, Al Qur’an digital, lagu islami, dakwah islam, dan catatan hapalan surat Al Qur’an.
 
 Tujuan pembuatan website Adnan sebagai berikut :
 1. Mempermudah dalam mempelajari Al-Qur’an
